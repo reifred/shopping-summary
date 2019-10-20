@@ -1,0 +1,8 @@
+{
+  "short_name": "Shopping Summary",
+  "name": "Shopping Summary",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
